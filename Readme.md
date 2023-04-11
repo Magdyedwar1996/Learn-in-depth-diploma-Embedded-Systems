@@ -28,5 +28,5 @@
 - [Unit 12: Advanced Topics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems/tree/master/12_Unit_12%20advanced%20topics) ![image](https://progress-bar.dev/0/)
 - [Unit 13: Automotive Protocols](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems/tree/master/13_Unit_13%20Mastering%20CAN%20Protocol) ![image](https://progress-bar.dev/0/)
 - [Unit 15: RTOS Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems/tree/master/14_Unit_14%20Interfacing%20ARM%20Cortex) ![image](https://progress-bar.dev/0/)
-- [Unit 16: AUTOSAR Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems.git) ![image](https://progress-bar.dev/0/)
-- [Unit 17: Embedded Linux Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems.git) ![image](https://progress-bar.dev/0/)
+- [Unit 16: AUTOSAR Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems/tree/master/16_Unit_16%20AUTOSAR%20Basics) ![image](https://progress-bar.dev/0/)
+- [Unit 17: Embedded Linux Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems/tree/master/16_Unit_16%20AUTOSAR%20Basics) ![image](https://progress-bar.dev/0/)
