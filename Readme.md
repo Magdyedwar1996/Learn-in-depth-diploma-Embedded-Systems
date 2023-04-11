@@ -2,7 +2,7 @@
 # Embedded Systems Online Diploma
 ## Contents
 
-### First Term ![image](https://progress-bar.dev/0/?title=Done&color=ff00ff)
+### First Term ![image](https://progress-bar.dev/25/?title=Done&color=ff00ff)
 
 - [Unit 1: Diploma Prerequisites](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems.git) ![image](https://progress-bar.dev/100/?title=Completed&color=bababa)
 - [Unit 2: C Programming](Unit_2_C_Programming) ![image](https://progress-bar.dev/50/)
