@@ -30,5 +30,3 @@
 - [Unit 15: RTOS Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems.git) ![image](https://progress-bar.dev/0/)
 - [Unit 16: AUTOSAR Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems.git) ![image](https://progress-bar.dev/0/)
 - [Unit 17: Embedded Linux Basics](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems.git) ![image](https://progress-bar.dev/0/)
-
----
