@@ -1,7 +1,11 @@
 
 # Embedded Systems Online Diploma
-## Contents
+---
+### This drive contains the exams and quizes    <a href="https://drive.google.com/drive/folders/1509_-qp1ikW5_Qs5ngTqsF75YTEGur8_?usp=share_link" target="_blank"><img align="center" src="https://www.gstatic.com/images/branding/product/2x/drive_96dp.png" alt="Google Drive" height="100" width="100" /></a>        <a href="https://drive.google.com/drive/folders/1509_-qp1ikW5_Qs5ngTqsF75YTEGur8_?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/Google%20Drive-Magdy_Edwar-green?logo=Google%20Drive&logoColor=white&labelColor=0078D4&style=for-the-badge&logoWidth=50"/></a>
 
+---
+
+## Contents
 ### First Term ![image](https://progress-bar.dev/25/?title=Done&color=ff00ff)
 
 - [Unit 1: Diploma Prerequisites](https://github.com/Magdyedwar1996/Learn-in-depth-diploma-Embedded-Systems.git) ![image](https://progress-bar.dev/100/?title=Completed&color=bababa)
